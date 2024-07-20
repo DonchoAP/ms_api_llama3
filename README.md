@@ -1,7 +1,7 @@
 # 🧠 Multiple Sclerosis Research API
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Multiple+Sclerosis+Research+API" alt="MS Research API Banner">
+  <img src="https://fusspflege-nageldesign.com/wp-content/uploads/2024/07/ms_image_api.jpeg" alt="MS Research API Banner">
 </p>
 
 <p align="center">
