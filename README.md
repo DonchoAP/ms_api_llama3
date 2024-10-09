@@ -1,4 +1,4 @@
-# 🧠 <strong>Multiple Sclerosis Research API</strong>
+# 🧠 <h1><strong>Multiple Sclerosis Research API</strong></h1>
 <p align="center">
   <img src="https://fusspflege-nageldesign.com/wp-content/uploads/2024/07/ms_image_api.jpeg" alt="MS Research API Banner" style="max-width: 100%; height: auto;">
 </p>
